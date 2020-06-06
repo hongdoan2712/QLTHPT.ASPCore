@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using QLTHPT.Models;
+using qlthpt.Models;
 
-namespace QLTHPT.Controllers
+namespace qlthpt.Controllers
 {
     public class HomeController : Controller
     {

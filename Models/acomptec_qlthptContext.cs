@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace QLTHPT.Models
+namespace qlthpt.Models
 {
     public partial class acomptec_qlthptContext : DbContext
     {
@@ -56,7 +56,7 @@ namespace QLTHPT.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
                 optionsBuilder.UseSqlServer("Server=210.245.90.239;Database=acomptec_qlthpt;User Id=acomptec_group11718;Password=group@11718");
             }
         }

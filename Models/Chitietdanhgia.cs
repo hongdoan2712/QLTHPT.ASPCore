@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace QLTHPT.Models
+namespace qlthpt.Models
 {
     public partial class Chitietdanhgia
     {

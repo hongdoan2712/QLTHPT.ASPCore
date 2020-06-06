@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\DoAn2\\QLTHPT.GitASPCore\\QLTHPT\\QLTHPT\\QLTHPT.csproj": {}
+    "D:\\DoAn2\\QLTHPT.ASPCore\\QLTHPTcore\\QLTHPT\\qlthpt.csproj": {}
   },
   "projects": {
-    "d:\\DoAn2\\QLTHPT.GitASPCore\\QLTHPT\\QLTHPT\\QLTHPT.csproj": {
+    "D:\\DoAn2\\QLTHPT.ASPCore\\QLTHPTcore\\QLTHPT\\qlthpt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\DoAn2\\QLTHPT.GitASPCore\\QLTHPT\\QLTHPT\\QLTHPT.csproj",
-        "projectName": "QLTHPT",
-        "projectPath": "d:\\DoAn2\\QLTHPT.GitASPCore\\QLTHPT\\QLTHPT\\QLTHPT.csproj",
+        "projectUniqueName": "D:\\DoAn2\\QLTHPT.ASPCore\\QLTHPTcore\\QLTHPT\\qlthpt.csproj",
+        "projectName": "qlthpt",
+        "projectPath": "D:\\DoAn2\\QLTHPT.ASPCore\\QLTHPTcore\\QLTHPT\\qlthpt.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "d:\\DoAn2\\QLTHPT.GitASPCore\\QLTHPT\\QLTHPT\\obj\\",
+        "outputPath": "D:\\DoAn2\\QLTHPT.ASPCore\\QLTHPTcore\\QLTHPT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,13 +52,17 @@
               "target": "Package",
               "version": "[3.1.4, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.4, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools.Dotnet": {
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
               "target": "Package",
               "version": "[2.0.3, )"
             },

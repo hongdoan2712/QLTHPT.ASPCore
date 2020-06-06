@@ -1,6 +1,6 @@
 using System;
 
-namespace QLTHPT.Models
+namespace qlthpt.Models
 {
     public class ErrorViewModel
     {
